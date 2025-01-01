@@ -1,4 +1,4 @@
-# Portfolio Prototype
+# Low-Fidelity Prototype
 ## Info:
 - I create a self-project about Low-Fidelity Prototype.
 - I created it during my course taking UX Designer in Coursera.
